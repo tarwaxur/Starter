@@ -13,4 +13,4 @@ alert("Please press the 'OK' button to continue.");
 
 alert("Please press the 'OK' button to continue.");
 
-console.log("Hi, I'm tarwaxur and I'm 16 years old.");
+console.log("Hi, my name is Buğrahan, surname is Karahan");
